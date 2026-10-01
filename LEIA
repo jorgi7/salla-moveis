@@ -1,0 +1,4 @@
+Coloque aqui as fotos (hero.jpg, sala.jpg, jantar.jpg, quarto.jpg, cozinha.jpg, escritorio.jpg).
+Depois, no css/style.css, troque:
+  .hero  { --hero: url("../img/hero.jpg"); }
+  .tile  { --img: url("../img/sala.jpg"); }  (e t2..t5 para os outros ambientes)
